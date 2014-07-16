@@ -1,0 +1,23 @@
+@font-face {
+        font-family: "PFSquareSansPro-Bold";
+        src: url("PFSquareSansPro-Bold.eot"),
+             url("PFSquareSansPro-Bold.ttf") format("truetype");
+}	
+	
+@font-face {
+        font-family: "PFSquareSansPro-BoldItalic";
+        src: url("PFSquareSansPro-BoldItalic.eot"),
+             url("PFSquareSansPro-BoldItalic.ttf") format("truetype");
+}
+	
+@font-face {
+        font-family: "PFSquareSansPro-Italic";
+        src: url("PFSquareSansPro-Italic.eot"),
+             url("PFSquareSansPro-Italic.ttf") format("truetype");
+}
+
+@font-face {
+        font-family: "PFSquareSansPro-Regular";
+        src: url("PFSquareSansPro-Regular.eot"),
+             url("PFSquareSansPro-Regular.ttf") format("truetype");
+}

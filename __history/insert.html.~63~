@@ -1,0 +1,303 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Ледовый дворец</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="css/insert.css" type="text/css" media="screen, projection" />
+</head>
+
+<body>
+
+<div id="header">
+    <div id="inner-header">
+        <ul id="header-menu">
+            <li><a href="#" class="marked">О компании</a></li>
+            <li><a href="#">Новости</a></li>
+            <li><a href="#" class="marked">Афиша</a></li>
+            <li><a href="#" class="marked">Галерея</a></li>
+            <li><a href="#">Форум</a></li>
+            <li><a href="#" class="marked">Контакты</a></li>
+        </ul>
+    </div>
+</div><!-- #header-->
+
+<div id="sub-header-block">	
+
+    <div id="sub-header">
+    	<div id="sub-header-logo-block">
+            <div id="logo-image"><img src="images/sub-header-logo.png" /></div>
+            <div id="logo-text-organization">ГОАОУ ДОД "ДЮСШ "Спорт-индустрия"</div>
+        </div>
+        <div id="sub-header-logo2"><img src="images/banner.jpg" /></div>
+    </div> 
+    
+    <div id="content-top-line-left"></div>
+    <div id="content-top-line-right"></div>     
+     
+</div>
+
+    <hr id="news-hr" />
+
+<div id="content">	
+      <div id="main-menu">
+        <ul id="mmenu-list">
+            <li><a href="#">Ледовая арена</a></li>
+            <li><a href="#">Бассеин</a></li>
+            <li><a href="#">Спортивная арена</a></li>
+            <li><a href="#">Фитнес</a></li>
+            <li><a href="#">Образовательная деятельность</a></li>
+            <li><a href="#">Дополнительные услуги</a></li>
+        </ul>
+    </div>
+    
+    <div id="breadcrumbs">
+    	<div id="b-crumbs-content">
+    		<a href="#">Главная</a> 
+            <span class="b-crumbs-separator"> \ </span> 
+            <span id="last-crumb">Ледовая арена</span>
+        </div>
+    </div>
+            
+    <div id="plan">
+        
+        <div id="plan-box">
+            <div id="plan-text">
+                <span id="plan-left-line"></span>                
+                <span id="plan-right-line"></span>
+                <span id="plan-text-himself">Расписание занятий на ледовой арене</span>
+            </div>
+            
+            <div id="google-calendar"></div>
+            <div id="suborganizations">
+            	<div id="ou-header">Подразделения</div>
+                <div id="ou-table">
+                	<ul id="ou-table-list">
+                    	<li><a href="#">Ледовая арена</a></li>
+                        <li><a href="#">Бассейн</a></li>
+                        <li><a href="#">Спортивная арена</a></li>
+                        <li><a href="#">Фитнес</a></li>
+                        <li><a href="#">Образовательная деятельность</a></li>
+                        <li><a href="#">Дополнительные услуги</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="plan-footer">
+            <div>Расписание работает в режиме on-line, оно поможет вам сориентироваться в занятиях и событиях, происходящих в спортивном комплексе. Прейскурант </div>
+            <div> на платные услуги смотрите ниже. Тел. кассы Ледового Дворца <span id="plan-telephone">(8162) 982-900</span></div>
+            </div>
+        </div>
+    </div><!--#plan-->
+    
+    <div id="arena">
+        
+        <div id="arena-box">
+            <div id="arena-text">
+                <span id="arena-left-line"></span>                
+                <span id="arena-right-line"></span>
+                <span id="arena-text-himself">Ледовая арена</span>
+            </div>  
+            <div id="arena-box-middle">
+            	<div id="arena-box-middle-text">
+            	Арена Ледового Дворца - это универсальная спортивная ледовая площадка. Это целый комплекс со сложным новейшим оборудованием: холодильной установкой и агрегатами для водоподготовки, мощным комплексом вентиляционных камер.  Площадь заливаемого льда - 1830 кв. м (61х30м). Во время массовых катаний одновременно на льду может кататься 120 человек.<br /><br />Трибуны позволяют комфортно разместить 1080 зрителей.<br /><br />При необходимой трансформации ледовая арена становится спортивной площадкой для проведения состязаний по волейболу, баскетболу, гандболу, теннису, гимнастике и боксу, здесь проводятся концертные и выставочные мероприятия. При этом количество мест для зрителей увеличивается на треть. Арена оборудована системой видеогол и электронным хоккейным табло. Для работы журналистов на мероприятиях оборудованы две смотровые кабины, откуда они могут вести фото- и видеосъёмку. Для комментаторов также предусмотрена своя зона - комментаторская.
+            	</div>
+            	<div id="arena-box-middle-image">
+            		<div id="abox-middle-img-itself">
+            			<img src="images/sit-places.jpg" width="226" height="176" />
+            		</div>
+            		<div id="abox-middle-img-desc">
+            			<div id="abox-middle-img-bold">Расположение мест на трибунах</div>							<div>(откроется в новом окне,  5221 Кб)</div>
+            		</div>
+            	</div>
+            </div>          
+        </div>
+        <div id="arena-box-footer">
+		     <div id="arena-box-footer-gallery">
+			  </div>
+			  <div id="arena-box-footer-itself">
+			Фотографии из альбома «<a href="#">Ледовая арена в деталях</a>»
+			  </div>
+		  </div>
+    </div><!--#arena-->
+    
+    <div id="payservice">
+        
+        <div id="payservice-box">
+            <div id="payservice-text">
+                <span id="payservice-left-line"></span>                
+                <span id="payservice-right-line"></span>
+                <span id="payservice-text-himself">Прейскурант на платные услуги</span>
+            </div>  
+            
+            <div id="payservice-box-content">
+            	<div id="payservice-box-start">
+            	Групповые посещения детей до 14-ти лет по предварительной заявке 
+            	(группы от 15 человек). Стоимость катания на своих коньках 50 руб./час. 
+            	Запись групп на катание по телефону 982-901 доб. 224 Бойцов Владимир Юрьевич.
+            	</div>
+            	
+            	<div id="payservice-box-blanks">
+            		<a id="payservice-box-blanks-pays" href="#">Бланк заявки на предоставление платных услуг (*xls 120 kb)</a>
+            		<a id="payservice-box-blanks-rules" href="#">Правила массовых катаний на коньках в Ледовом Дворце Великого Новгорода (*pdf 2170 kb)</a>
+            		<a id="payservice-box-blanks-visit" href="#">Правила посещения тренажерного зала</a>
+            		<a class="payservice-box-blanks-behavior" href="#">Правила поведения посетителей Ледового дворца</a>
+            		<a class="payservice-box-blanks-behavior" href="#">Правила пользования ячейками камер хранения</a>
+            	</div>            
+            
+            	<div class="work-table-header">Расписание работы тренажерного зала с 01.12.2011</div>
+            
+            	<div class="work-table">
+            		<div class="work-table-first">
+            			<div>Понедельник - Пятница</div>
+            			<div>12.00 - 22.00</div>
+            		</div>
+            		<div class="work-table-second">
+            			<div>Суббота - Воскресенье</div>
+            			<div>10.00 - 20.00</div>
+            		</div>
+            	</div>
+            	
+            	<div class="work-table-header">Расписание работы зала настольного тенниса</div>
+            
+            	<div class="work-table">
+            		<div class="work-table-first">
+            			<div>Понедельник - Пятница</div>
+            			<div>12.00 - 22.00</div>
+            		</div>
+            		<div class="work-table-second">
+            			<div>Суббота - Воскресенье</div>
+            			<div>10.00 - 20.00</div>
+            		</div>
+					</div>
+					
+					<div id="session-time">
+						Последний сеанс игры начинается в 19.00<br />
+						Бронирование времени игры можно сделать по телефону 982-900
+				   </div>
+				   
+				   <div class="work-table-header">
+				   	Расписание работы заточки коньков (коньки для заточки можно оставлять в пункте проката с 8.00 до 21.00)
+					</div>
+            
+            	<div class="work-table">
+            		<div class="work-table-first">
+            			<div>Понедельник - Вторник</div>
+            			<div>Выходной</div>
+            		</div>
+            		<div class="work-table-second">
+            			<div>Среда</div>
+            			<div>17.00 - 19.00</div>
+            		</div>
+            		<div class="work-table-first">
+            			<div>Четверг - Пятница</div>
+            			<div>20.00 - 21.00</div>
+            		</div>
+            		<div class="work-table-second">
+            			<div>Суббота</div>
+            			<div>17.30 - 20.00</div>
+            		</div>
+            		<div class="work-table-first">
+            			<div>Воскресенье</div>
+            			<div>17.30 - 19.00</div>
+            		</div>
+					</div>
+					
+					<div id="price-header-text">
+						Прейскурант на платные услуги Ледового дворца Великого Новгорода
+					</div>
+					
+					<div id="p-header-text-1">действует с 03 марта 2012 года (внесены изменения Приказом №136 от 22.05.12)</div>
+					
+					<div id="p-header-text-2">
+					Прейскурант на платные услуги по организации и проведению физкультурных, 
+					физкультурно-оздоровительных и спортивных мероприятий ГОАОУ ДОД «ДЮСШ «Спорт-индустрия»
+					 без НДС
+					</div>
+					
+					<div id="p-header-text-3">
+						<span id="p-header-warning">Внимание! </span>
+						<span id="p-header-layer">Стоимость под чертой / указана для юридических лиц уже с НДС</span>
+					</div>
+					
+					<div id="show-price">
+						<span id="show-price-text">Показать прейскурант на услуга ледовой арены</span>
+					</div>
+					
+					<div>            	
+            		<a class="payservice-box-blanks-behavior" href="#">Скачать прейскурант на услуги «Ледовой арены»</a>
+            		<a class="payservice-box-blanks-behavior" href="#">Правила пользования ячейками камер хранения</a>
+            	</div>            
+					
+				</div> 	             
+           
+        </div> <!-- payservice-box -->
+    </div><!--#payservice-->
+    
+</div><!-- #content-->
+
+<div id="contacts">
+    
+	<div id="contacts-content">
+        <div id="contacts-text">
+            <span id="contacts-left-line"></span>            
+            <span id="contacts-right-line"></span>
+            <span id="contacts-text-himself">Контакты</span>
+        </div>
+        
+        <div id="contacts-address">
+            <p>ГОАОУ ДОД "ДЮСШ Спорт-индустрия"</p>
+            <p>кл. Космонавтов, 32</p>
+            <p>Великий Новгород</p>
+            <img id="contacts-delemiter-1" src="images/contacts-delemiter.jpg" />
+        </div>
+        
+        <div id="contacts-tel-email">
+            <p>Тел.: <span class="contacts-tel-style">(8162) 982-901</span></p>
+            <p>Факс: <span class="contacts-tel-style">(8162) 982-902</span></p>
+            <p>Email: <a href="mailto:#" id="contacts-email">s-indystriy@mail.ru</a></p>
+            <img id="contacts-delemiter-2" src="images/contacts-delemiter.jpg" />
+        </div>    
+        
+        <div id="contacts-social">
+            <p>
+                <span class="contacts-social-italic">Вконтакте</span>
+                <span class="contacts-tel-style">vk.com/club_ice-vn</span>
+            </p>
+            <p>
+                <span class="contacts-social-italic">Twitter</span>
+                <span class="contacts-tel-style">@club_ice_vn</span>
+            </p>
+            <p>
+                <span class="contacts-social-italic">Youtube</span>
+                <span class="contacts-tel-style">club_ice_vn</span>
+            </p>
+        </div>
+    </div>
+</div>
+
+<div id="footer">
+	<div id="footer-content">
+        <div id="footer-left">
+            <div id="footer-left-text">
+                <p><span id="footer-organization">ГОАОУ ДОД "ДЮСШ "Спорт-индустрия"</span></p> 
+    <p>Тел.: 982-900 - касса, 982-901 - администрация, 982-902 - факс</p>
+    <p>982-903 - бухгалтерия, 982-904 - учебная часть </p>
+            </div>
+            <div>
+                <a class="footer-link" href="#">Реквизиты</a> | 
+                <a class="footer-link" href="#">Информация о деятельности компании</a> | 
+                <a class="footer-link" href="#">Аукционы</a>
+            </div>           
+        </div>
+        
+         <div id="footer-right">
+                <div id="footer-developer">Создание сайта - kuratov.ru</div>
+                <img src="images/footer-counter.jpg" />
+            </div>
+    </div>
+</div><!-- #footer -->
+
+</body>
+</html>
